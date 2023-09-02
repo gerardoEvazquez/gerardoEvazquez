@@ -9,7 +9,7 @@
   - [Understanding DNS in Azure](https://github.com/gerardoEvazquez/intuition-dns)
   - [Understanding File Permissions in Azure](https://github.com/gerardoEvazquez/file-permissions)
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/ErnestoAPantoja/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/gerardoEvazquez/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ErnestoAPantoja/post-install-config)
   - [osTicket: Resolving Tickets in a Ticketing System](https://github.com/ErnestoAPantoja/ticket-lifecycle)
 <h2>🤳Connect with me on LinkedIn:</h2>
