@@ -7,7 +7,7 @@
   - [Installing Active Directory in Azure](https://github.com/gerardoEvazquez/install-ad)
   - [Configuring Active Directory in Azure](https://github.com/gerardoEvazquez/configure-ad)
   - [Understanding DNS in Azure](https://github.com/gerardoEvazquez/intuition-dns)
-  - [Understanding File Permissions in Azure](https://github.com/ErnestoAPantoja/file-permissions)
+  - [Understanding File Permissions in Azure](https://github.com/gerardoEvazquez/file-permissions)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ErnestoAPantoja/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ErnestoAPantoja/post-install-config)
