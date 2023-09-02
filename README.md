@@ -11,7 +11,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/gerardoEvazquez/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/gerardoEvazquez/post-install-config)
-  - [osTicket: Resolving Tickets in a Ticketing System](https://github.com/ErnestoAPantoja/ticket-lifecycle)
+  - [osTicket: Resolving Tickets in a Ticketing System](https://github.com/gerardoEvazquez/ticket-lifecycle)
 <h2>🤳Connect with me on LinkedIn:</h2>
 
 [<img align="left" alt="Ernesto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
