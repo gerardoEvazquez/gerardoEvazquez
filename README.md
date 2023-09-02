@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Inspecting Network Traffic in Azure](https://github.com/ErnestoAPantoja/azure-network-protocols)
+  - [Inspecting Network Traffic in Azure](https://github.com/gerardoEvazquez/azure-network-protocols)
   - [Installing Active Directory in Azure](https://github.com/ErnestoAPantoja/install-ad)
   - [Configuring Active Directory in Azure](https://github.com/ErnestoAPantoja/configure-ad)
   - [Understanding DNS in Azure](https://github.com/ErnestoAPantoja/intuition-dns)
