@@ -5,7 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Inspecting Network Traffic in Azure](https://github.com/gerardoEvazquez/azure-network-protocols)
   - [Installing Active Directory in Azure](https://github.com/gerardoEvazquez/install-ad)
-  - [Configuring Active Directory in Azure](https://github.com/ErnestoAPantoja/configure-ad)
+  - [Configuring Active Directory in Azure](https://github.com/gerardoEvazquez/configure-ad)
   - [Understanding DNS in Azure](https://github.com/ErnestoAPantoja/intuition-dns)
   - [Understanding File Permissions in Azure](https://github.com/ErnestoAPantoja/file-permissions)
 - <b>osTicket (Help Desk Ticketing System)</b>
